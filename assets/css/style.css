@@ -15,7 +15,7 @@ header,
 }
 
 .top-nav-collapse {
-  background-color: #78909c !important;
+  background-color: #cbb7d1 !important;
 }
 
 .navbar:not(.top-nav-collapse) {
@@ -54,7 +54,3 @@ h5 {
 .container {
     max-width: 700px;
 } */
-
-#about-img {
-    border-radius: 50%;
-  }
